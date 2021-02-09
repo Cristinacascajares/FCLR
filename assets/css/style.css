@@ -169,7 +169,7 @@ body {
   # Header
   --------------------------------------------------------------*/
   #header {
-    background: #fdefe2;
+    background: #fdefe225;
     transition: all 0.5s;
     z-index: 997;
     padding: 15px 0;
@@ -224,7 +224,7 @@ body {
   .nav-menu a {
     display: block;
     position: relative;
-    color:#be3c30;
+    color:#d9ba85;
     transition: 0.3s;
     font-size: 14px;
     font-family: "Open Sans", sans-serif;
@@ -236,7 +236,7 @@ body {
   
   .nav-menu .book-a-table a {
     border: 2px solid #cda45e;
-    color: #be3c30;
+    color: #d9ba85;
     border-radius: 50px;
     padding: 8px 25px;
     text-transform: uppercase;
@@ -248,7 +248,7 @@ body {
   
   .nav-menu .book-a-table a:hover {
     background: #cda45e;
-    color:  #be3c30;
+    color:  #d9ba85;
   }
   
   .nav-menu .drop-down ul {
@@ -347,7 +347,7 @@ body {
   
   
   .mobile-nav-toggle i {
-    color: #be3c30;
+    color: #d9ba85;
   }
   
   .mobile-nav {
@@ -482,7 +482,7 @@ body {
   #hero {
     width: 100%;
     height: 100vh;
-    background: url("../img/IMG_8425.jpg") top center;
+    background: url("../img/menu/palmas.png") top center;
     background-size: cover;
     position: relative;
     padding: 0;
